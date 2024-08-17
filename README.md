@@ -1,0 +1,2 @@
+# STGAB-translater
+screen translator
